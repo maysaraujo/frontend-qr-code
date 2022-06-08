@@ -21,7 +21,7 @@ body {
   border-radius: 15px 15px;
 }
 
-#img {
+.img {
   width: 260px;
   height: 260px;
   margin: auto;
